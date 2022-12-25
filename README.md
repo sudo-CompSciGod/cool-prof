@@ -21,29 +21,8 @@
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hitech.tech101/"/> -->
-<a href="mailto: hitech.tech101@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hitech.tech101@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/hiteshale/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshale/"/>
-</a>
-</p>
 
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/sudo-CompSciGod/sudo-CompSciGod/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=sudo-CompSciGod&show_icons=true&theme=radical&line_height=27">
@@ -58,4 +37,3 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=sudo-CompSciGod&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
